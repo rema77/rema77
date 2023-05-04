@@ -3,8 +3,8 @@
 <div>
   <a href="https://github.com/rema77/github-readme-stats">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=theme=dark&include_all_commits=true&count_private=true"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout-compac=compact&langs_count=16&theme=theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=theme=gotham&include_all_commits=true&count_private=true"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout-compac=compact&langs_count=16&theme=theme=gotham">
 </div>
 
 <!--
