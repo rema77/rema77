@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá 👋 eu sou a Renato Martins, UX/UI Designer e estudante de programação Full Stack!
+ 
+<!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
 
 <div>
   <a href="https://github.com/rema77/github-readme-stats">
