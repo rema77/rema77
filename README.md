@@ -1,4 +1,7 @@
-### Olá 👋 eu sou a Renato Martins, UX/UI Designer e estudante de programação Full Stack!
+### Olá!👋 Eu sou Renato Martins, UX/UI Designer e estudante de Full Stack Developer.
+
+- 🔭 Hoje estou trabalhando como UX/UI Design.
+- 🌱 Atualmente estudando para ser um Desenvolverdor Full Stack.
  
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
