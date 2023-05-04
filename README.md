@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77)](https://github.com/anuraghazra/github-readme-stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77">
 </div>
 
 <!--
