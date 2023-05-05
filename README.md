@@ -8,9 +8,8 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <div>
   <a href="https://github.com/rema77/github-readme-stats">
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=dark&include_all_commits=true&count_private=true"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout-compac=compact&langs_count=16&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <div style="display: inline_block"><br />
@@ -35,6 +34,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 <!--
