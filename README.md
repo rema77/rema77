@@ -1,8 +1,8 @@
-### Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Eu sou Renato Martins 
-#### UX/UI Designer e estudante de Full Stack Developer.
+### Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Eu sou Renato Martins. 
+#### UX/UI Designer e estudante de Web Developer Full Stack.
 
-- 🔭 Hoje estou trabalhando como UX/UI Design.
-- 🌱 Atualmente estou estudando na OneBitCode para me tornar um Desenvolvedor Full Stack.
+- 🔭 Atualmente estou trabalhando como UX/UI Design.
+- 🌱 E estou estudando na OneBitCode para me tornar um Web Developer Full Stack.
  
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
