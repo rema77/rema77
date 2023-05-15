@@ -1,5 +1,5 @@
 ### Olá! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Eu sou Renato Martins 
-### UX/UI Designer e estudante de Full Stack Developer.
+## UX/UI Designer e estudante de Full Stack Developer.
 
 - 🔭 Hoje estou trabalhando como UX/UI Design.
 - 🌱 Atualmente estou estudando na OneBitCode para me tornar um Desenvolvedor Full Stack.
