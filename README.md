@@ -24,18 +24,6 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  />
  <img src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true" />
 </picture>
- 
- <picture>
- <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=dark"
-  media="(prefers-color-scheme: dark)"
- />
- <source
-  srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16)"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
- />
- <img src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true" />
-</picture>
 
 </div>
 
