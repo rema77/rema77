@@ -10,7 +10,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 <picture>
  <source height="180em"
-  srcset="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=github_dark"
   media="(prefers-color-scheme: dark)"
  />
  <source  height="180em"
@@ -22,7 +22,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  
 <picture>
  <source height="180em"
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=transparent"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=github_dark"
   media="(prefers-color-scheme: dark)"
  />
  <source  height="180em"
