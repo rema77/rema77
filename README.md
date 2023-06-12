@@ -31,8 +31,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16" />
 </picture>
 
-### Tecnologias utilizadas
----
+## Tecnologias utilizadas
 <div style="display: inline_block"><br />
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,7 +40,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <!--img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"-->
 </div>
 
-### Você pode me encontrar aqui também 👇
+## Você pode me encontrar aqui também 👇
 <div> 
  <a href="https://instagram.com/renatovmartins" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
