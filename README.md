@@ -7,12 +7,7 @@
 <!-- Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)-->
 
-<div>
- <a href="https://github.com/rema77/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
- </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=dark">
- 
+
 <picture>
  <source height="180em"
   srcset="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true&theme=dark"
@@ -36,7 +31,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16" />
 </picture>
-</div>
+
 
 ### Tecnologias utilizadas
 ##
