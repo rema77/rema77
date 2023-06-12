@@ -24,7 +24,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
  />
  <img src="https://github-readme-stats.vercel.app/api?username=rema77&show_icons=true" />
 </picture>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rema77&layout=compact&langs_count=16&theme=dark">
 </div>
 
 ### Tecnologias utilizadas
